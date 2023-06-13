@@ -1,0 +1,4 @@
+
+ternary : condition ? true : not true
+
+isItRaingin ? "No playing socker" : "playing socker"
